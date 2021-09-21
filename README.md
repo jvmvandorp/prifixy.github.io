@@ -6,3 +6,5 @@ You can visit my website on [jaapvd.nl](https://jaapvd.nl).
 
 
 Credits to nightwolfdezines (Vecteezy) for the background.
+
+I added a lot of the style garbage in the HTML files and so the indexing isn't correct. That's why I added a lot of random crap into an old CSS file.
